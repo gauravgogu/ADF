@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "GMyDataFactory"
 		},
-		"AzureStorageLinkedService_connectionString": {
+		"AzureSql1_connectionString": {
 			"value": ""
 		},
-		"AzureSql1_connectionString": {
+		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
 		"containerUri": {

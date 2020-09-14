@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "GMyDataFactory"
+		},
+		"AzureSql1_connectionString": {
+			"value": ""
+		},
+		"AzureStorageLinkedService_connectionString": {
+			"value": ""
 		}
 	}
 }
